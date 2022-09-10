@@ -1,0 +1,12 @@
+11
+cat dog
+fish fish
+lion tiger
+dog dog
+bird dog
+dog bird
+rose mary
+rose roselle
+violet gloxinia
+apple orange
+bean cat
